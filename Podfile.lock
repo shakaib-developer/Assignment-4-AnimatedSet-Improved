@@ -1,0 +1,42 @@
+PODS:
+  - FloatRatingView (3.0)
+  - JTCalendar (2.2.4)
+  - mopub-ios-sdk (5.6.0):
+    - mopub-ios-sdk/MoPubSDK (= 5.6.0)
+  - mopub-ios-sdk/Avid (5.6.0):
+    - mopub-ios-sdk/Core
+  - mopub-ios-sdk/Core (5.6.0)
+  - mopub-ios-sdk/Moat (5.6.0):
+    - mopub-ios-sdk/Core
+  - mopub-ios-sdk/MoPubSDK (5.6.0):
+    - mopub-ios-sdk/Avid
+    - mopub-ios-sdk/Core
+    - mopub-ios-sdk/Moat
+  - PieCharts (0.0.7)
+  - SearchTextField (1.2.2)
+
+DEPENDENCIES:
+  - FloatRatingView
+  - JTCalendar (~> 2.2)
+  - mopub-ios-sdk
+  - PieCharts
+  - SearchTextField
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FloatRatingView
+    - JTCalendar
+    - mopub-ios-sdk
+    - PieCharts
+    - SearchTextField
+
+SPEC CHECKSUMS:
+  FloatRatingView: 0f7b45733124516ac6b8f535e5b5f4fa2e122180
+  JTCalendar: dce40e7e278b2d9ce747ca45d7fd369f2fda6f57
+  mopub-ios-sdk: 2b13b29ed6d1b06f7e52dd0c0a01e7adb749c1a7
+  PieCharts: 30e50dfa7dc19e5b84e9878d32089673ef5d0453
+  SearchTextField: a0992739d4b05dcbb40fb3a5cc6526bd991bdd23
+
+PODFILE CHECKSUM: 7efff55b53e9946fd32ff068338041420656c65b
+
+COCOAPODS: 1.5.3
